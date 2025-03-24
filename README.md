@@ -31,9 +31,9 @@ A simple Python script that allows users to borrow books from a predefined list.
 
 ##  File Structure
 ```
-📦 homeLibrary
- ┣ 📜 home_library_book_lending.py
- ┗ 📜 README.md
+ homeLibrary
+ ┣  home_library_book_lending.py
+ ┗  README.md
 ```
 - `home_library_book_lending.py`: The main script to borrow books.
 - `README.md`: Documentation and guidelines for the project.
